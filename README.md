@@ -15,9 +15,15 @@ These challenges aim to:
 
 ## Overview of Tasks
 
-1. **Algorithmic Challenge**: Dive into the world of algorithms and data structures by crafting a function that identifies palindromes.
+
+
+
+1. **Object-Oriented Programming (OOP)**: Understand the principles of OOP by modeling geometric shapes, encapsulating their properties and behaviors, and testing their functionalities.
+
 2. **Data Manipulation**: Flex your `pandas` muscles with an e-commerce dataset, where you'll gain insights from real-world data and make meaningful visualizations.
-3. **Object-Oriented Programming (OOP)**: Understand the principles of OOP by modeling geometric shapes, encapsulating their properties and behaviors, and testing their functionalities.
+
+3. **Algorithmic Challenge**: Dive into the world of algorithms and data structures by crafting a function that identifies palindromes.
+
 4. **Application Building**: Take a holistic approach to programming by developing a family tree application. This task integrates various components: defining the data structure (using OOP), storing data (SQLite database), and creating a user-friendly interface (GUI).
 
 ## Conclusion
