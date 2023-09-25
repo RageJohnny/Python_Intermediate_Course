@@ -1,4 +1,4 @@
-# Task 3: OOP Exercise - Geometric Shapes
+# Task 1: OOP Exercise - Geometric Shapes
 
 ## Objective
 
